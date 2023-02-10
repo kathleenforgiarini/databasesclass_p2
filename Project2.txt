@@ -1,0 +1,116 @@
+
+TO_CHAR(SYSDATE,'DDMONTHYYYYDAYHH:MI:SS')                                                                 
+----------------------------------------------------------------------------------------------------------
+22 Janeiro   2023 Domingo       08:39:10
+
+
+Function QUESTION1 compilado
+
+
+QUESTION1(5,5) QUESTION1(15,5) QUESTION1(7,11)
+-------------- --------------- ---------------
+            25              75              77
+
+
+Procedure QUESTION2 compilado
+
+For a rectangle of size 2 by 3, the area is 6.
+
+
+Procedimento PL/SQL concluído com sucesso.
+
+For a rectangle of size 7 by 9, the area is 63.
+
+
+Procedimento PL/SQL concluído com sucesso.
+
+For a rectangle of size 4 by 11, the area is 44.
+
+
+Procedimento PL/SQL concluído com sucesso.
+
+
+Procedure QUESTION3 compilado
+
+For a rectangle of size 2 by 3, the area is 6.
+
+
+Procedimento PL/SQL concluído com sucesso.
+
+Square
+
+
+Procedimento PL/SQL concluído com sucesso.
+
+
+Procedure QUESTION4 compilado
+
+For 2 dollars Canadian, you will have 1,33 Euro
+
+
+Procedimento PL/SQL concluído com sucesso.
+
+For 2 dollars Canadian, you will have 200 Yen
+
+
+Procedimento PL/SQL concluído com sucesso.
+
+For 2 dollars Canadian, you will have 20000 Viet Nam DONG
+
+
+Procedimento PL/SQL concluído com sucesso.
+
+For 2 dollars Canadian, you will have 2000000 Endora ZIP
+
+
+Procedimento PL/SQL concluído com sucesso.
+
+
+Function YES_EVEN compilado
+
+True
+
+
+Procedimento PL/SQL concluído com sucesso.
+
+False
+
+
+Procedimento PL/SQL concluído com sucesso.
+
+
+Procedure QUESTION6 compilado
+
+Number 6 is EVEN
+
+
+Procedimento PL/SQL concluído com sucesso.
+
+Number 5 is ODD
+
+
+Procedimento PL/SQL concluído com sucesso.
+
+
+Procedure QUESTIONBONUS compilado
+
+For 2 Canadian dollar, you will have 1,33 Euro.
+
+
+Procedimento PL/SQL concluído com sucesso.
+
+For 2 Euro, you will have 3 Canadian dollar.
+
+
+Procedimento PL/SQL concluído com sucesso.
+
+For 2 Canadian dollar, you will have 2000000 Endora Zip.
+
+
+Procedimento PL/SQL concluído com sucesso.
+
+For 20000 Endora Zip, you will have 2 Yen.
+
+
+Procedimento PL/SQL concluído com sucesso.
+
